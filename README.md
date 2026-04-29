@@ -1,5 +1,5 @@
 # LKS Nasional
-- (Main Repository)[https://github.com/LKS-ID]
+- [Main Repository](https://github.com/LKS-ID)
 - 2022: https://github.com/LKS-ID/2022-LKSN
 - 2023: https://github.com/LKS-ID/2023-LKSN-Surabaya-jeopardy
 - 2024: https://github.com/LKS-ID/2024-LKSN-Lampung
@@ -15,3 +15,7 @@
 
 # Selekda WorldSkills
 - 2024: https://github.com/LKS-ID/2024-Selekda
+
+# CyberBreaker
+- [Main Repository](https://github.com/cyberbreaker-id)
+- 2025: https://github.com/cyberbreaker-id/challenges-2025
