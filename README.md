@@ -1,5 +1,6 @@
 # LKS Nasional
 - [Main Repository](https://github.com/LKS-ID)
+- 2021: https://github.com/jakyahmed/LKS2021-CTF-Chals
 - 2022: https://github.com/LKS-ID/2022-LKSN
 - 2023: https://github.com/LKS-ID/2023-LKSN-Surabaya-jeopardy
 - 2024: https://github.com/LKS-ID/2024-LKSN-Lampung
@@ -19,3 +20,9 @@
 # CyberBreaker
 - [Main Repository](https://github.com/cyberbreaker-id)
 - 2025: https://github.com/cyberbreaker-id/challenges-2025
+
+# idekCTF
+- [Main Repository](https://github.com/idekctf)
+- 2021: https://github.com/idekctf/idekctf-2021
+- 2022: https://github.com/idekctf/idekctf-2022
+- 2024: https://github.com/idekctf/idekctf-2024
