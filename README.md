@@ -26,3 +26,10 @@
 - 2021: https://github.com/idekctf/idekctf-2021
 - 2022: https://github.com/idekctf/idekctf-2022
 - 2024: https://github.com/idekctf/idekctf-2024
+
+# Project Sekai CTF
+- [Main Repository](https://github.com/project-sekai-ctf)
+- 2022: https://github.com/project-sekai-ctf/sekaictf-2022
+- 2023: https://github.com/project-sekai-ctf/sekaictf-2023
+- 2024: https://github.com/project-sekai-ctf/sekaictf-2024
+- 2025: https://github.com/project-sekai-ctf/sekaictf-2025
