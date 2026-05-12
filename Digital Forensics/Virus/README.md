@@ -15,6 +15,7 @@
 ## Background
 
 Diberikan sebuah artifact berupa memory dump dari sebuah Operating System.
+
 **Tujuan**: Mengalisa dan mendapatkan avidence berupa Username dan Password Attacker dari sebuah Web Browser.
 
 ---
