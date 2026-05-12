@@ -162,9 +162,12 @@ Dari hasil diatas, ditemukan informasi Web Browser yang digunakan Attacker adala
 0x8787afca9840  \Users\codex\AppData\Local\Google\Chrome\User Data\Default\History-journal
 0x8787afdb6a80  \Users\codex\AppData\Local\Google\Chrome\User Data\Default\History-journal
 ```
-> `-i` digunakan untuk mengabaikan case sensitive bawaan dari tools grep 
+> `-i` digunakan untuk mengabaikan case sensitive bawaan dari tools grep
+> 
 > `-e` digunakan untuk mencocokan pola strings yang ingin dicari
+> 
 > `.` pada regular expression/regex adalah sebuah lambang placeholder yang dapat digantikan dengan karakter apapun, misal `a.b` artinya `acb`,`a@b`, `a1b`
+> 
 > `*` pada regular expression/regex adalah sebuah lambang placeholder nol atau lebih karakter sebelumnya 
 
 Dari hasil diatas, lakukan dump terhadap files pada direktori History.
