@@ -1,6 +1,5 @@
 # Virus
 
-| | |
 |---|---|
 | **CTF** | General |
 | **Category** | Digital Forensics |
