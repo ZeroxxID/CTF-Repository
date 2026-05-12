@@ -1,7 +1,7 @@
 # Virus
-| | |
-| **CTF** | General |
+
 | **Category** | Digital Forensics |
+|--|--|
 | **Team** | A X V |
 | **Player** | 0x |
 | **Data** | Username:`codex`, Secret:`s4y4p4n64nw` |
